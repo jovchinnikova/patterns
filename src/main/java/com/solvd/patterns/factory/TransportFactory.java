@@ -1,5 +1,10 @@
 package com.solvd.patterns.factory;
 
+/**
+ * Example of usage: according to the page names in a menu of the site
+ * there can be opened different pages after clicking with the help of factory pattern
+ */
+
 public class TransportFactory {
 
     public void goOnTrip(TransportType transportType){
